@@ -1,5 +1,7 @@
 # <p align="center"> Anime EDA </p>
 
+### <p align="center"> Work in Progress... </p>
+
 Data Analysis using Rust on the top 4,985 most-popular anime on MyAnimeList as of November 2026, scraped via the Jikan v4 public API.
 
 ### **1.0 What im trying to find out**
