@@ -7,9 +7,16 @@ Data Analysis using Rust on the top 4,985 most-popular anime on MyAnimeList as o
 
 ### **1.0 What im trying to find out**
 
+#### **1.1 Core**
 1. Which anime attract huge viewerbase but fail to achieve critical acclaim?
 2. What titles maintain exceptionally high audience passion despite lower total member counts?
 3. What percentage of total listed members actually complete and rate a title ?
+
+#### **1.2 Based on What?**
+1. Average MAL Score
+2. Favourite Conversion Rate
+3. Rating Completion Ratio
+4. High-Performer Share
 
 ### **2.0 Dataset**
 
