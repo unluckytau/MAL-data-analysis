@@ -1,4 +1,4 @@
-# <p align="center"> Anime EDA </p>
+# <p align="center"> MAL Dataset Analysis </p>
 
 ### <p align="center"> Work in Progress... </p>
 
