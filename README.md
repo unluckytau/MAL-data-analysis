@@ -32,7 +32,4 @@ Data Analysis using Rust on the top 4,985 most-popular anime on MyAnimeList as o
 
 ### **4.0 To do**
 
-- [ ] eda
-- [ ] train models 
 - [ ] document findings and visualizations
-- [ ] nlp (maybe)
